@@ -1,0 +1,23 @@
+Intro:
+
+As we all know, retrieval is a main way for users to find resources. A good retrieval system or a search engine help users find what they need in a shorter time by more convenient way.
+
+
+General search:
+
+In the homepage of VPL website, there is providing search box, this is a general search. There are three databases can be searched, Catalogue, Website and Events. And there has eight item for searching, Keyword, Title, Author, Series, Subject, Tag, List and User. So, we can see this general search is same as other website, and don’t has obvious features.
+
+
+Advanced search:
+
+But it’s advanced search is very friendly to public users. If you are a professional searcher, you can use Boolean query to search in the up box. However, public users have different education and professional backgrounds, a number of them can’t use the Boolean query. Even though, please take it easy, it provides a form to construct your Boolean query, public users can use the interface by inputting what you want, what you don’t want and choosing the limits in drop-down box. The limit is very detailed containing useful items like language, audience, content, format and so on. Public users can approach to professional search by this way.
+
+
+Optimize search result:
+
+When we search a query, there may be a lot of search results. How can we find the right one we need? Let’s see the optimizing of search results. Firstly, you can use the filter items to limit your search results like the limit of search query. Secondly, you can sort the search results by relevance, data acquired, title, author, published data and rating. Finally, if the search results list doesn’t have the thing you need, you can broaden you search filed like this, you could see the results is more than the former.
+
+
+Conclusion:
+
+So, in a word. We think the retrieval of VPL is very friendly to public users with various education backgrounds, and the optimizing of search results is based on the users’ habits and needs, which help public users find the right resource effectively.
